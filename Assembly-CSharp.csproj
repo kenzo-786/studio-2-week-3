@@ -60,13 +60,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scipts\3d script\playercam.cs" />
+    <Compile Include="Assets\Scipts\Death.cs" />
     <Compile Include="Assets\Scipts\3d script\cameraposition.cs" />
     <Compile Include="Assets\Scipts\PlayerMovement.cs" />
     <Compile Include="Assets\Scipts\3d script\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Scipts\RespawnMechanics.cs" />
     <Compile Include="Assets\Scipts\Respawn.cs" />
+    <Compile Include="Assets\Scipts\killMechanics.cs" />
     <Compile Include="Assets\Scipts\3d script\Movement.cs" />
     <Compile Include="Assets\Scipts\3d script\PlatformDisappear.cs" />
     <Compile Include="Assets\Scipts\3d script\Player.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Customizable Skybox\Stylized Sky\Shaders\Stylized Sky.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
