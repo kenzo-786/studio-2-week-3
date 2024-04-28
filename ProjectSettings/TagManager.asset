@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Spikes
   - Chest open
+  - Ground
+  - Treasure
   layers:
   - Default
   - TransparentFX
